@@ -32,7 +32,7 @@ Hover: User can hover the mouse over the map to get the information about the co
 
 
 ### **How to use**
-Clone the repository
-Install the requirements
-Run the code in GitHub using codespaces
-Explore and navigate through the visualization as you wish
+* Clone the repository
+* Install the requirements
+* Run the code in GitHub using codespaces
+* Explore and navigate through the visualization as you wish
